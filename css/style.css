@@ -11,10 +11,14 @@ body{
 }
 
 header{
+    background-color: #78BAF0;
+    padding: 1vw;
+    border-bottom: 2px solid #4496E0;
+}
+
+.headerSuperior{
     display: flex;
     align-items: center;
-    background-color: #78BAF0;
-    padding: 0.5vw 1vw;
 }
 
 .divLogo img{
@@ -39,7 +43,6 @@ p{
 }
 
 nav{
-    background-color: #77C7D9;
     padding: 1vw 0;
 }
 
@@ -47,6 +50,11 @@ ul{
     display: flex;
     justify-content: center;
     list-style: none;
+}
+
+ul li:hover{
+    background-color: #C8E7FF;
+    border-radius: 20px;
 }
 
 ul li a{
@@ -67,10 +75,23 @@ footer{
     margin: 1.5vw 0;
 }
 
+.sectionExplicación{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 1.5vw 0 2.5vw 0;
+}
+
+.sectionExplicación p{
+    width: 50%;
+    font-size: 1.5vw;
+}
+
 .sectionJugadores{
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    justify-items: center;
     padding: 0 1.5vw;
 }
 
@@ -87,14 +108,60 @@ footer{
 }
 
 .card img{
-    width: 13vw;
+    width: 16vw;
     border-bottom: 1px solid #5FC6FF;
     border-radius: 15px 15px 0px 0px;
+}
+
+.card a{
+    text-decoration: none;
+    color: black;
 }
 
 .card p{
     width: 12vw;
     margin-top: 0.5vw;
+}
+
+/* Detalle */
+.mainDetalle h2{
+    text-align: center;
+    margin: 2vw 0;
+}
+
+.sectionDescripcion{
+    display: flex;
+    align-items: center;
+    margin: 0 3vw;
+}
+
+.sectionDescripcion img{
+    width: 20vw;
+    border: 3px solid black;
+    border-radius: 140px;
+}
+
+.sectionDescripcion p{
+    width: 30vw;
+    font-size: 1.2vw;
+    margin-left: 4vw;
+}
+
+.sectionCamiseta{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 1vw 15vw 3vw 0;
+}
+
+.sectionCamiseta p{
+    font-size: 1.4vw;
+    width: 40%;
+    text-align: center;
+}
+
+.sectionCamiseta img{
+    width: 17vw;
 }
 
 /* 404 */

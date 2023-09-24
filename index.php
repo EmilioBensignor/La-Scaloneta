@@ -42,20 +42,22 @@ $configurarRuta = $arrayRutas[$ruta];
 </head>
 <body>
     <header>
-        <div class="divLogo">
-            <img src="images/logoArg.png" alt="escudo-argentina">
+        <div class="headerSuperior">
+            <div class="divLogo">
+                <img src="images/logoArg.png" alt="escudo-argentina">
+            </div>
+            <h1>
+                La Scaloneta
+            </h1>
         </div>
-        <h1>
-            La Scaloneta
-        </h1>
+        <nav>
+            <ul>
+                <li><a href="index.php?s=home">Home</a></li>
+                <li><a href="index.php?s=plantilla">Plantel</a></li>
+                <li><a href="index.php?s=contacto">Contacto</a></li>
+            </ul>
+        </nav>
     </header>
-    <nav>
-        <ul>
-            <li><a href="index.php?s=home">Home</a></li>
-            <li><a href="index.php?s=plantilla">Plantel</a></li>
-            <li><a href="index.php?s=contacto">Contacto</a></li>
-        </ul>
-    </nav>
     <?php
     require __DIR__ . '/vistas/' . $ruta . '.php';
     ?>
