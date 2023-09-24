@@ -1,0 +1,119 @@
+/* Estilos Generales */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #C8E7FF;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    background-color: #78BAF0;
+    padding: 0.5vw 1vw;
+}
+
+.divLogo img{
+    width: 4vw;
+}
+
+h1{
+    margin-left: 2vw;
+    font-size: 3vw;
+}
+
+h2{
+    font-size: 2.4vw;
+}
+
+h3{
+    font-size: 1.3vw;
+}
+
+p{
+    font-size: 1vw;
+}
+
+nav{
+    background-color: #77C7D9;
+    padding: 1vw 0;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 1vw;
+    font-size: 2vw;
+}
+
+footer{
+    background-color: #78BAF0;
+    padding: 1vw;
+}
+
+/* Plantilla */
+.main-plantilla h2{
+    text-align: center;
+    margin: 1.5vw 0;
+}
+
+.sectionJugadores{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    padding: 0 1.5vw;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: max-content;
+    padding-bottom: 0.5vw;
+    margin-bottom: 2vw;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.card img{
+    width: 13vw;
+    border-bottom: 1px solid #5FC6FF;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.card p{
+    width: 12vw;
+    margin-top: 0.5vw;
+}
+
+/* 404 */
+.main-404{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2vw 0;
+}
+
+.main-404 h2{
+    margin-bottom: 1vw;
+}
+
+.main-404 p{
+    margin-bottom: 2vw;
+    font-size: 1.5vw;
+}
+
+.main-404 ul li a{
+    font-size: 3vw;
+}

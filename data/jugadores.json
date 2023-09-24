@@ -1,0 +1,252 @@
+[
+    {
+        "numero_camiseta": 23,
+        "nombre_completo": "Emiliano Martinez",
+        "resumen": "Arquero - Aston Villa",
+        "descripcion": "",
+        "imagen_jugador": "emiliano-martinez.png",
+        "alt_imagen_jugador": "emiliano-martinez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 3,
+        "nombre_completo": "Nicolás Tagliafico",
+        "resumen": "Defensor - Olympique de Lyon",
+        "descripcion": "",
+        "imagen_jugador": "nicolas-tagliafico.png",
+        "alt_imagen_jugador": "nicolas-tagliafico",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 19,
+        "nombre_completo": "Nicolás Otamendi",
+        "resumen": "Defensor - Benfica",
+        "descripcion": "",
+        "imagen_jugador": "nicolas-otamendi.png",
+        "alt_imagen_jugador": "nicolas-otamendi",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 13,
+        "nombre_completo": "Cristian Romero",
+        "resumen": "Defensor - Tottenham",
+        "descripcion": "",
+        "imagen_jugador": "cristian-romero.png",
+        "alt_imagen_jugador": "cristian-romero",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 4,
+        "nombre_completo": "Gonzalo Montiel",
+        "resumen": "Defensor - Nottingham Forest",
+        "descripcion": "",
+        "imagen_jugador": "gonzalo-montiel.png",
+        "alt_imagen_jugador": "gonzalo-montiel",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 26,
+        "nombre_completo": "Nahuel Molina",
+        "resumen": "Defensor - Atlético Madrid",
+        "descripcion": "",
+        "imagen_jugador": "nahuel-molina.png",
+        "alt_imagen_jugador": "nahuel-molina",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 8,
+        "nombre_completo": "Marcos Acuña",
+        "resumen": "Defensor - Sevilla",
+        "descripcion": "",
+        "imagen_jugador": "marcos-acuna.png",
+        "alt_imagen_jugador": "marcos-acuna",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 7,
+        "nombre_completo": "Rodrigo De Paul",
+        "resumen": "Mediocampista - Atlético Madrid",
+        "descripcion": "",
+        "imagen_jugador": "rodrigo-de-paul.png",
+        "alt_imagen_jugador": "rodrigo-de-paul",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 24,
+        "nombre_completo": "Enzo Fernández",
+        "resumen": "Mediocampista - Chelsea",
+        "descripcion": "",
+        "imagen_jugador": "enzo-fernandez.png",
+        "alt_imagen_jugador": "enzo-fernandez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 20,
+        "nombre_completo": "Alexis Mac Allister",
+        "resumen": "Mediocampista - Liverpool",
+        "descripcion": "",
+        "imagen_jugador": "alexis-mac-allister.png",
+        "alt_imagen_jugador": "alexis-mac-allister",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 5,
+        "nombre_completo": "Leandro Paredes",
+        "resumen": "Mediocampista - Roma",
+        "descripcion": "",
+        "imagen_jugador": "leandro-paredes.png",
+        "alt_imagen_jugador": "leandro-paredes",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 11,
+        "nombre_completo": "Ángel Di María",
+        "resumen": "Delantero - Benfica",
+        "descripcion": "",
+        "imagen_jugador": "angel-di-maria.png",
+        "alt_imagen_jugador": "angel-di-maria",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 22,
+        "nombre_completo": "Lautaro Martínez",
+        "resumen": "Delantero - Inter",
+        "descripcion": "",
+        "imagen_jugador": "lautaro-martinez.png",
+        "alt_imagen_jugador": "lautaro-martinez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 9,
+        "nombre_completo": "Julián Álvarez",
+        "resumen": "Delantero - Machester City",
+        "descripcion": "",
+        "imagen_jugador": "julian-alvarez.png",
+        "alt_imagen_jugador": "julian-alvarez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 21,
+        "nombre_completo": "Paulo Dybala",
+        "resumen": "Delantero - Roma",
+        "descripcion": "",
+        "imagen_jugador": "paulo-dybala.png",
+        "alt_imagen_jugador": "paulo-dybala",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 12,
+        "nombre_completo": "Gerónimo Rulli",
+        "resumen": "Arquero - Villareal",
+        "descripcion": "",
+        "imagen_jugador": "geronimo-rulli.png",
+        "alt_imagen_jugador": "geronimo-rulli",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 1,
+        "nombre_completo": "Franco Armani",
+        "resumen": "Arquero - River Plate",
+        "descripcion": "",
+        "imagen_jugador": "franco-armani.png",
+        "alt_imagen_jugador": "franco-armani",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 6,
+        "nombre_completo": "Germán Pezzella",
+        "resumen": "Defensor - Real Betis",
+        "descripcion": "",
+        "imagen_jugador": "german-pezzella.png",
+        "alt_imagen_jugador": "german-pezzella",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 25,
+        "nombre_completo": "Lisandro Martínez",
+        "resumen": "Defensor - Manchester United",
+        "descripcion": "",
+        "imagen_jugador": "lisandro-martinez.png",
+        "alt_imagen_jugador": "lisandro-martinez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 2,
+        "nombre_completo": "Juan Foyth",
+        "resumen": "Defensor - Villareal",
+        "descripcion": "",
+        "imagen_jugador": "juan-foyth.png",
+        "alt_imagen_jugador": "juan-foyth",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 18,
+        "nombre_completo": "Guido Rodríguez",
+        "resumen": "Mediocampista - Real Betis",
+        "descripcion": "",
+        "imagen_jugador": "guido-rodriguez.png",
+        "alt_imagen_jugador": "guido-rodriguez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 17,
+        "nombre_completo": "Alejandro Gómez",
+        "resumen": "Mediocampista - Sevilla",
+        "descripcion": "",
+        "imagen_jugador": "alejandro-gomez.png",
+        "alt_imagen_jugador": "alejandro-gomez",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 14,
+        "nombre_completo": "Exequiel Palacios",
+        "resumen": "Mediocampista - Bayer Leverkusen",
+        "descripcion": "",
+        "imagen_jugador": "exequiel-palacios.png",
+        "alt_imagen_jugador": "exequiel-palacios",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 16,
+        "nombre_completo": "Thiago Almada",
+        "resumen": "Mediocampista - Atlanta United",
+        "descripcion": "",
+        "imagen_jugador": "thiago-almada.png",
+        "alt_imagen_jugador": "thiago-almada",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    },
+    {
+        "numero_camiseta": 15,
+        "nombre_completo": "Ángel Correa",
+        "resumen": "Mediocampista - Atlético Madrid",
+        "descripcion": "",
+        "imagen_jugador": "angel-correa.png",
+        "alt_imagen_jugador": "angel-correa",
+        "imagen_camiseta": "",
+        "alt_imagen_camiseta": ""
+    }
+]
