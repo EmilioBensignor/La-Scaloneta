@@ -15,6 +15,9 @@ $arrayRutas = [
     'contacto' => [
         'titulo' => 'Subite a la Scaloneta',
     ],
+    'gracias' => [
+        'titulo' => 'Gracias',
+    ],
     '404' => [
         'titulo' => 'Página no encontrada',
     ],

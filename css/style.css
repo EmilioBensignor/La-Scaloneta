@@ -32,6 +32,8 @@ h1{
 
 h2{
     font-size: 2.4vw;
+    text-align: center;
+    margin: 2vw 0;
 }
 
 h3{
@@ -70,11 +72,6 @@ footer{
 }
 
 /* Plantilla */
-.main-plantilla h2{
-    text-align: center;
-    margin: 1.5vw 0;
-}
-
 .sectionExplicación{
     display: flex;
     justify-content: center;
@@ -88,10 +85,9 @@ footer{
 }
 
 .sectionJugadores{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(6, 1fr);
-    justify-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     padding: 0 1.5vw;
 }
 
@@ -102,7 +98,7 @@ footer{
     text-align: center;
     width: max-content;
     padding-bottom: 0.5vw;
-    margin-bottom: 2vw;
+    margin: 2vw;
     border: 3px solid black;
     border-radius: 20px;
 }
@@ -124,11 +120,6 @@ footer{
 }
 
 /* Detalle */
-.mainDetalle h2{
-    text-align: center;
-    margin: 2vw 0;
-}
-
 .sectionDescripcion{
     display: flex;
     align-items: center;
@@ -164,16 +155,120 @@ footer{
     width: 17vw;
 }
 
+/* Contacto */
+.main-contacto{
+    margin: 1vw 4vw;
+}
+
+form{
+    margin-bottom: 2vw;
+}
+
+.main-contacto form p{
+    margin-bottom: 1vw;
+    font-size: 1.5vw;
+}
+
+fieldset{
+    width: 80vw;
+    padding: 1vw;
+    border-radius: 15px;
+}
+
+legend{
+    color: black;
+    font-size: 1.2vw;
+}
+
+.sectionContacto{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+}
+
+.sectionContacto div{
+    display: flex;
+    flex-direction: column;
+}
+
+form label{
+    font-size: 1vw;
+    font-weight: bold;
+}
+
+.sectionContacto input, .sectionContacto select{
+    width: 20vw;
+    font-size: 1vw;
+    margin: 0.5vw 0;
+    padding: 0.1vw;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.divTextarea{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    margin: 1vw 0 1vw 9.5vw;
+}
+
+.divTextarea textarea{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0.5vw;
+    margin-top: 0.5vw;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: black;
+    font-size: 0.8vw;
+}
+
+.divButtonForm{
+    display: flex;
+    justify-content: end;
+}
+
+.divButtonForm button{
+    font-size: 1.5vw;
+    padding: 0.5vw 1vw;
+    color: black;
+    background-color: #5FC6FF;
+    border: 2px solid #4496E0;
+    border-radius: 15px;
+    margin-right: 3vw;
+    cursor: pointer;
+}
+
+.divButtonForm button:hover{
+    color: #C8E7FF;
+}
+
+/* Gracias */
+.main-gracias{
+    height: 65vh;
+}
+
+.main-gracias p{
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+.divMessiSaludo{
+    display: flex;
+    justify-content: center;
+    margin: 2vw 0;
+}
+
+.divMessiSaludo img{
+    width: 15vw;
+}
+
 /* 404 */
 .main-404{
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 2vw 0;
-}
-
-.main-404 h2{
-    margin-bottom: 1vw;
 }
 
 .main-404 p{
