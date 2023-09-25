@@ -157,7 +157,9 @@ footer{
 
 /* Contacto */
 .main-contacto{
-    margin: 1vw 4vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 form{
